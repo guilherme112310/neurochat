@@ -1,0 +1,2 @@
+-keep class com.neurochat.app.** { *; }
+-keepattributes JavascriptInterface
